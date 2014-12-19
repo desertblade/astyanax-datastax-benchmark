@@ -14,3 +14,8 @@ Results
 * Astyanax prepared:1997 ms
 * Datastax:10230 ms
 
+
+Libraries used
+--------------
+* cassandra-driver-core-2.1.0.jar
+* astyanax in version 1.56.37
