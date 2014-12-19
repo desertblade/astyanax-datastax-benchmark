@@ -1,2 +1,8 @@
 astyanax/lib/*
+Astyanax/lib/*
 datastax/lib/*
+out/
+.idea
+astyanax/target
+datastax/target
+*.iml
