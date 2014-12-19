@@ -10,9 +10,9 @@ Prerequisities
 
 Results
 -------
-* Astyanax:2734 ms
-* Astyanax prepared:1997 ms
-* Datastax:10230 ms
+* Astyanax:2526 ms
+* Astyanax prepared:2126 ms
+* Datastax:5330 ms
 
 
 Libraries used
